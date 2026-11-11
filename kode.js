@@ -1,4 +1,4 @@
-const GEMINI_API_KEY = "GANTI_DENGAN_API_KEY_GEMINI_ANDA";
+const GEMINI_API_KEY = "AIzaSyCql9lAV9TVux-xcKfEo7CB8U60QUkxnH8";
 const API_URL = "https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=" + GEMINI_API_KEY;
 
 function doGet() {
