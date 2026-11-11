@@ -1,4 +1,4 @@
-const GEMINI_API_KEY = "AIzaSyCql9lAV9TVux-xcKfEo7CB8U60QUkxnH8";
+const GEMINI_API_KEY = "--------------------------------";
 const API_URL = "https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=" + GEMINI_API_KEY;
 
 function doGet() {
